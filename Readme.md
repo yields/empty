@@ -7,9 +7,13 @@
 
     $ component install yields/empty
 
-## API
+## Example
 
-   
+```js
+var el = document.createElement('div');
+el.appendChild(document.createElement('ul'));
+assert('' == empty(el).innerHTML);
+```
 
 ## License
 
