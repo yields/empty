@@ -1,0 +1,16 @@
+{
+  "name": "empty",
+  "repo": "yields/empty",
+  "description": "empty an element.",
+  "version": "0.0.1",
+  "keywords": ["empty"],
+  "dependencies": {},
+  "development": {
+    "visionmedia/mocha": "*"  
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
